@@ -1,3 +1,3 @@
 document.getElementById('myButton').addEventListener('click', function() {
-    alert('Howdy!! welcome to my site');
+    window.location.href = 'https://myflutterapp-c0fa3.web.app';
 });
